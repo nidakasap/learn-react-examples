@@ -1,9 +1,11 @@
-import React from 'react'
+import React from "react";
 
 const NotFound = () => {
   return (
-    <div>NotFound</div>
-  )
-}
+    <div>
+      <h4>404 Not Found</h4>
+    </div>
+  );
+};
 
-export default NotFound
+export default NotFound;
